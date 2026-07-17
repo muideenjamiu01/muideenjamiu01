@@ -5,7 +5,7 @@ Frontend Engineer • React • Next.js • TypeScript • Building Scalable Web
 </h3>
 
 <p align="center">
-I'm a Frontend Engineer with 6+ years of experience building performant, accessible, and scalable web applications. I enjoy turning complex business problems into intuitive user experiences and writing clean, maintainable code.
+I'm a Frontend Engineer with 5+ years of experience building performant, accessible, and scalable web applications. I enjoy turning complex business problems into intuitive user experiences and writing clean, maintainable code.
 </p>
 
 ---
